@@ -371,11 +371,11 @@ img.menu {
 }
 
 
-/* Responsive layout: cap page width, fix menu width, keep lines readable */
+/* Responsive layout: cap page width (left-aligned so the menu stays at the edge), fix menu width */
 #tlayout {
 	width: 100%;
 	max-width: 1100px;
-	margin: 0 auto;
+	margin: 0;
 	border-collapse: collapse;
 }
 
