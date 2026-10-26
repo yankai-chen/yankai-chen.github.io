@@ -395,7 +395,7 @@ img.menu {
 }
 
 /* Narrow screens: stack the menu above the content */
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 500px) {
 	#tlayout, #tlayout tbody, #tlayout tr, #layout-menu, #layout-content {
 		display: block;
 		width: auto;
